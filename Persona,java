@@ -1,0 +1,20 @@
+public class Persona {
+
+  //atributos
+
+  String nombre;
+  String apellido;
+  int edad;
+  String ciudad;
+
+  // metodo
+
+  public void saludar() {
+    System.out.println("Buen dia");
+  }
+  
+  public void despedida() {
+    System.out.println("Hasta pronto, que tengas un gran día");
+  }
+}
+
