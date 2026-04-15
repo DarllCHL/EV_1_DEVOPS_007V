@@ -10,6 +10,6 @@ public class Persona {
   // metodo
   
   public void saludar() {
-    System.out.println("Buen día");
+    System.out.println("Buen día, usuario");
   }
 }
